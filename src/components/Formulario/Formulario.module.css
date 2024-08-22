@@ -1,0 +1,52 @@
+.input{
+    margin-top: 54px;
+    margin-bottom: 8px;
+    margin-left: 54%;
+
+}
+
+.inputItem{
+    padding: 16px;
+    margin-right: 8px;
+    border-radius: 4px;
+    text-align: center;
+    font-size: 90%;
+}
+
+
+.resultado{
+    padding: 8px;
+    margin-left: 58%;
+    width: 37%;
+    font-size: 32px;
+    margin-top: 24px;
+    margin-bottom: 24px;
+}
+
+.tabela{
+    margin-left: 38%;
+    margin-top: 16px;
+    border: solid 4px gray;
+    padding: 12px;
+    width: 84%;
+    text-align: center;
+}
+
+
+.tabelaItem{
+    height: 40px;
+    
+}
+
+
+.borda1 {
+    padding: 4px;
+    border: 2px solid blue;
+    background-color: rgb(228, 222, 222);
+}
+
+.borda2 {
+    padding: 4px;
+    border: 2px solid red ;
+    background-color: rgb(228, 222, 222);
+}
